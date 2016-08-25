@@ -1,0 +1,15 @@
+{
+  "name": "medison-logic",
+  "version": "1.0.0",
+  "description": "My Project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameergh/Medison-AI/issues"
+  },
+  "homepage": "https://github.com/sameergh/Medison-AI#readme"
+}
